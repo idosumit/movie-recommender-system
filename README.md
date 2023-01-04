@@ -15,6 +15,6 @@ The dataset I've made use of is the [tmdb-movie-dataset](https://www.kaggle.com/
 
 5. Deployment
 
-I deployed the cloud-based application via Git. The Heroku website has the [steps for deploying with Git](https://devcenter.heroku.com/articles/git).
+I deployed the cloud-based application via Git. I had originally used the Heroku platform for hosting; however, since it doesn't have free services anymore, I migrated the app to [Render](https://render.com/).
 
-The link to the recommender app developed with these codes can be accessed [here](https://movie-recommendation-global.herokuapp.com/).
+The link to the recommender app developed with these codes can be accessed [here](https://movie-recommendation-global.onrender.com/).
