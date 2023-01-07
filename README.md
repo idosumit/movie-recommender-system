@@ -1,8 +1,7 @@
 # Content-Based Recommender App for Movies: An End-To-End Project
 
-```
-Objective: To build a recommender app that can recommend 5 similar movies when a user selects a movie from the library.
-```
+
+> Objective: To build a recommender app that can recommend 5 similar movies when a user selects a movie from the library.
 
 ## Table of Contents
 (Details in the [notebook](https://github.com/psumitcode/movie-recommender-system/blob/main/recommender-system_notebook.ipynb))
