@@ -1,6 +1,5 @@
 # Content-Based Recommender App for Movies: An End-To-End Project
 
-
 > Objective: To build a recommender app that can recommend 5 similar movies when a user selects a movie from the library.
 
 ## Table of Contents
@@ -12,9 +11,7 @@
 
 3. Creating the Main Function
 
-4. Frontend and Streamlit
-
-5. Deployment
+4. Streamlit and Deployment
 
 #
 
